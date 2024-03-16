@@ -85,7 +85,7 @@ CREATE TABLE pharmaceuticaldb_schema.drugcategorydimension (
     drugcategoryid integer NOT NULL,
     drugcategory character varying(50),
     description character varying(255),
-    exampledrus character varying(255),
+    exampledrugs character varying(255),
     use character varying(255)
 );
 
